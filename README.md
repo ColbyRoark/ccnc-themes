@@ -4,6 +4,8 @@
 
 **Themes for [ccNC for Gen5W](https://github.com/JacobPantuso/ccnc-gen5w): wallpapers, colours, icons and startup videos for Hyundai and Kia Gen5W head units.**
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/jacobpantuso)
+
 ![Themes](https://img.shields.io/badge/themes-13-1f6feb)
 ![Install](https://img.shields.io/badge/install-over%20Wi--Fi-3ddc84)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-8957e5)
@@ -16,6 +18,9 @@
 </div>
 
 ---
+
+> ☕ **Enjoying ccNC-Gen5W?** It's free and took a *lot* of late nights to build, and a fair amount of paid AI usage
+> along the way. If you enjoy the experience, consider [donating](https://buymeacoffee.com/jacobpantuso). It helps keep updates and new features coming.
 
 ## Overview
 
