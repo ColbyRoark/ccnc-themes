@@ -8,19 +8,19 @@
 
 | Theme | Style | Cars | Version | Author |
 |---|---|---|---|---|
-| [Arctic Light](#arctic-light) | Light | Hyundai + Kia | 1.0 | ccNC |
-| [Aurora](#aurora) | Dark | Hyundai + Kia | 1.0 | ccNC |
-| [Candy Cane Christmas](#candy-cane-christmas) | Dark | Hyundai + Kia | 1.0 | ccNC |
-| [Carbon Orange](#carbon-orange) | Dark | Hyundai + Kia | 1.0 | ccNC |
-| [Deep Ocean](#deep-ocean) | Dark | Hyundai + Kia | 1.0 | ccNC |
-| [Evergreen](#evergreen) | Dark | Hyundai + Kia | 1.0 | ccNC |
-| [Parametric Blue](#hyundai-parametric) | Dark | Hyundai | 1.0 | ccNC |
-| [Midnight Facets](#kia-midnight) | Dark | Kia | 1.0 | ccNC |
-| [Neon Drive](#neon-drive) | Dark | Hyundai + Kia | 1.0 | ccNC |
-| [Rose Gold](#rose-gold) | Dark | Hyundai + Kia | 1.0 | ccNC |
-| [Sandstone](#sandstone) | Light | Hyundai + Kia | 1.0 | ccNC |
-| [Swamp Master](#swamp-master) | Dark | Hyundai + Kia | 1.0 | ccNC |
-| [Swamp Ogre](#swamp-ogre) | Dark | Hyundai + Kia | 1.0 | ccNC |
+| [Arctic Light](#arctic-light) | Light | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Aurora](#aurora) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Candy Cane Christmas](#candy-cane-christmas) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Carbon Orange](#carbon-orange) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Deep Ocean](#deep-ocean) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Evergreen](#evergreen) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Parametric Blue](#hyundai-parametric) | Dark | Hyundai | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Midnight Facets](#kia-midnight) | Dark | Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Neon Drive](#neon-drive) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Rose Gold](#rose-gold) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Sandstone](#sandstone) | Light | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Swamp Master](#swamp-master) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
+| [Swamp Ogre](#swamp-ogre) | Dark | Hyundai + Kia | 1.0 | [Jacob Pantuso](https://github.com/JacobPantuso) |
 
 <a id="arctic-light"></a>
 ## Arctic Light
@@ -35,7 +35,7 @@
 | Style | Light |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/arctic-light](../packs/arctic-light) |
 
@@ -52,7 +52,7 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/aurora](../packs/aurora) |
 
@@ -69,7 +69,7 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/candy-cane-christmas](../packs/candy-cane-christmas) |
 
@@ -86,7 +86,7 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/carbon-orange](../packs/carbon-orange) |
 
@@ -103,7 +103,7 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/deep-ocean](../packs/deep-ocean) |
 
@@ -120,7 +120,7 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/evergreen](../packs/evergreen) |
 
@@ -137,7 +137,7 @@
 | Style | Dark |
 | Cars | Hyundai |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/hyundai-parametric](../packs/hyundai-parametric) |
 
@@ -154,7 +154,7 @@
 | Style | Dark |
 | Cars | Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/kia-midnight](../packs/kia-midnight) |
 
@@ -171,7 +171,7 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/neon-drive](../packs/neon-drive) |
 
@@ -188,7 +188,7 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/rose-gold](../packs/rose-gold) |
 
@@ -205,7 +205,7 @@
 | Style | Light |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/sandstone](../packs/sandstone) |
 
@@ -222,7 +222,7 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/swamp-master](../packs/swamp-master) |
 
@@ -239,6 +239,6 @@
 | Style | Dark |
 | Cars | Hyundai + Kia |
 | Version | 1.0 |
-| Author | ccNC |
+| Author | [Jacob Pantuso](https://github.com/JacobPantuso) |
 | Includes | startup video, custom icons |
 | Files | [packs/swamp-ogre](../packs/swamp-ogre) |

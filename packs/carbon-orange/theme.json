@@ -1,7 +1,8 @@
 {
   "id": "carbon-orange",
   "name": "Carbon Orange",
-  "author": "ccNC",
+  "author": "Jacob Pantuso",
+  "github": "JacobPantuso",
   "version": "1.0",
   "description": "Carbon-fibre graphite with a hot orange light trail.",
   "brands": [

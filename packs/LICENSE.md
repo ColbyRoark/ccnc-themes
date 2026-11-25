@@ -5,8 +5,7 @@ theme.json) is licensed under **Creative Commons Attribution 4.0 International (
 https://creativecommons.org/licenses/by/4.0/ . You may share and adapt it, including commercially, as long as
 you credit the theme's author (the `author` in its theme.json) and link the licence.
 
-**Icons:** the `icons/` in the starter packs are recoloured versions of ccNC's own icon artwork, which belongs
-to its owners (Hyundai Motor Company / Kia Corporation). They are not covered by this licence.
+**Starter pack:** the icons and fonts are Hyundai's proprietary artwork and fonts. All credit goes to Hyundai.
 
 By submitting a theme you confirm you have the right to share it and agree to license your original work in it
 under CC BY 4.0.

@@ -63,5 +63,6 @@ request. The full walkthrough is in **[CONTRIBUTING.md](CONTRIBUTING.md)**; ever
 
 ## License
 
-Tools: [MIT](LICENSE). Themes: [CC BY 4.0](packs/LICENSE.md), credit the theme's author. The starter themes'
-icons are recoloured ccNC artwork and are not covered by that licence.
+Tools: [MIT](LICENSE). Themes: [CC BY 4.0](packs/LICENSE.md), credit the theme's author.
+
+**Starter pack:** the icons and fonts are Hyundai's proprietary artwork and fonts. All credit goes to Hyundai.
