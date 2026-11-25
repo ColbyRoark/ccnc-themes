@@ -1,0 +1,30 @@
+{
+  "id": "sandstone",
+  "name": "Sandstone",
+  "author": "ccNC",
+  "version": "1.0",
+  "description": "Light theme: warm desert dunes, terracotta accent.",
+  "brands": [
+    "hyundai",
+    "kia"
+  ],
+  "light": true,
+  "colors": {
+    "background": [
+      "#E6D8C4",
+      "#F1E7D8",
+      "#EADCC8",
+      "#D9C7AE"
+    ],
+    "glow1": "#80FFF6E8",
+    "glow2": "#50F0C890",
+    "shade": "#30806040",
+    "card": "#C8FFFBF4",
+    "subtext": "#6B5A48",
+    "accent": "#B85A28"
+  },
+  "wallpaper": "wallpaper.jpg",
+  "icons": "icons",
+  "boot_video": "boot.mp4",
+  "shutdown_video": "shutdown.mp4"
+}

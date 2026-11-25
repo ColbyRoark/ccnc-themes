@@ -1,0 +1,37 @@
+name: Validate theme packs
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check every pack
+        run: |
+          fail=0
+          for p in packs/*/; do
+            id=$(basename "$p")
+            echo "== $id"
+            python3 -I tools/validate.py "$p" || fail=1
+            jid=$(python3 -I -c "import json,sys; print(json.load(open(sys.argv[1]))['id'])" "$p/theme.json" 2>/dev/null)
+            if [ "$jid" != "$id" ]; then echo "ERROR: folder $id but theme.json id is '$jid'"; fail=1; fi
+          done
+          bad=$(find packs -type f ! -name theme.json ! -name '*.jpg' ! -name '*.jpeg' ! -name '*.png' ! -name '*.mp4')
+          if [ -n "$bad" ]; then echo "ERROR: only theme files are allowed in packs/:"; echo "$bad"; fail=1; fi
+          exit $fail
+      - name: Build the packs
+        run: for p in packs/*/; do bash tools/mktheme.sh "$p"; done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: built-packs
+          path: dist/

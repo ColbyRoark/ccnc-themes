@@ -1,0 +1,30 @@
+{
+  "id": "swamp-ogre",
+  "name": "Swamp Ogre",
+  "author": "ccNC",
+  "version": "1.0",
+  "description": "Murky swamp at dusk: moss greens, mud browns, firefly glow.",
+  "brands": [
+    "hyundai",
+    "kia"
+  ],
+  "light": false,
+  "colors": {
+    "background": [
+      "#0C1206",
+      "#18220C",
+      "#1F2C10",
+      "#0A0F05"
+    ],
+    "glow1": "#507AA02A",
+    "glow2": "#30506A1C",
+    "shade": "#90050803",
+    "card": "#6A2A3418",
+    "subtext": "#C8CFA8",
+    "accent": "#9BD45A"
+  },
+  "wallpaper": "wallpaper.jpg",
+  "icons": "icons",
+  "boot_video": "boot.mp4",
+  "shutdown_video": "shutdown.mp4"
+}

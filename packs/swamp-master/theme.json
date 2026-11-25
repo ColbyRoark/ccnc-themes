@@ -1,0 +1,30 @@
+{
+  "id": "swamp-master",
+  "name": "Swamp Master",
+  "author": "ccNC",
+  "version": "1.0",
+  "description": "Misty jungle swamp, ancient roots and a glowing green accent.",
+  "brands": [
+    "hyundai",
+    "kia"
+  ],
+  "light": false,
+  "colors": {
+    "background": [
+      "#040E0C",
+      "#0A1C18",
+      "#0E2620",
+      "#050D0B"
+    ],
+    "glow1": "#4048C878",
+    "glow2": "#30287060",
+    "shade": "#90020605",
+    "card": "#64203A32",
+    "subtext": "#AEC8BC",
+    "accent": "#62F27A"
+  },
+  "wallpaper": "wallpaper.jpg",
+  "icons": "icons",
+  "boot_video": "boot.mp4",
+  "shutdown_video": "shutdown.mp4"
+}

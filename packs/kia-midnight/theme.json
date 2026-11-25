@@ -1,0 +1,29 @@
+{
+  "id": "kia-midnight",
+  "name": "Midnight Facets",
+  "author": "ccNC",
+  "version": "1.0",
+  "description": "Kia: sharp angular facets in black with coral light.",
+  "brands": [
+    "kia"
+  ],
+  "light": false,
+  "colors": {
+    "background": [
+      "#06070A",
+      "#0E1014",
+      "#14161B",
+      "#07080A"
+    ],
+    "glow1": "#28F0604D",
+    "glow2": "#18405060",
+    "shade": "#96000000",
+    "card": "#6E23262C",
+    "subtext": "#AEB3BA",
+    "accent": "#F0604D"
+  },
+  "wallpaper": "wallpaper.jpg",
+  "icons": "icons",
+  "boot_video": "boot.mp4",
+  "shutdown_video": "shutdown.mp4"
+}

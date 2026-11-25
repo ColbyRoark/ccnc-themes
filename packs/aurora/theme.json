@@ -1,0 +1,30 @@
+{
+  "id": "aurora",
+  "name": "Aurora",
+  "author": "ccNC",
+  "version": "1.0",
+  "description": "Northern lights over a dark ridge, mint to violet.",
+  "brands": [
+    "hyundai",
+    "kia"
+  ],
+  "light": false,
+  "colors": {
+    "background": [
+      "#050A14",
+      "#0A1628",
+      "#101C30",
+      "#060A12"
+    ],
+    "glow1": "#4038C890",
+    "glow2": "#30704BB0",
+    "shade": "#88000308",
+    "card": "#62202A40",
+    "subtext": "#B6C4D4",
+    "accent": "#6EF0B0"
+  },
+  "wallpaper": "wallpaper.jpg",
+  "icons": "icons",
+  "boot_video": "boot.mp4",
+  "shutdown_video": "shutdown.mp4"
+}

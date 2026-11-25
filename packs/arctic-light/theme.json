@@ -1,0 +1,30 @@
+{
+  "id": "arctic-light",
+  "name": "Arctic Light",
+  "author": "ccNC",
+  "version": "1.0",
+  "description": "Light theme: frosted ice blues with crisp dark text.",
+  "brands": [
+    "hyundai",
+    "kia"
+  ],
+  "light": true,
+  "colors": {
+    "background": [
+      "#D8E4EE",
+      "#EAF1F6",
+      "#E0EAF2",
+      "#CCDAE6"
+    ],
+    "glow1": "#80FFFFFF",
+    "glow2": "#60D6ECFF",
+    "shade": "#2A587890",
+    "card": "#C8FFFFFF",
+    "subtext": "#4F6272",
+    "accent": "#1E78C8"
+  },
+  "wallpaper": "wallpaper.jpg",
+  "icons": "icons",
+  "boot_video": "boot.mp4",
+  "shutdown_video": "shutdown.mp4"
+}
