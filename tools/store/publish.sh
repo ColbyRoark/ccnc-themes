@@ -9,8 +9,8 @@ TAG=${1:?usage: tools/store/publish.sh <tag>}
 git pull --ff-only
 for p in packs/*/; do [ -f "$p/theme.json" ] && tools/mktheme.sh "$p" >/dev/null; done
 python3 -I tools/catalog.py
-if ! git diff --quiet README.md; then  # new / changed themes: keep the README catalog current
-    git add README.md && git commit -q -m "Update theme catalog" && git push -q
+if ! git diff --quiet README.md docs/CATALOG.md || [ -n "$(git status --porcelain docs/CATALOG.md)" ]; then  # new / changed themes: keep the README catalog current
+    git add README.md docs/CATALOG.md && git commit -q -m "Update theme catalog" && git push -q
 fi
 python3 -I tools/store/mkstore.py
 gh release create "$TAG" store-out/* --repo JacobPantuso/ccnc-themes --title "ccNC themes $TAG" \

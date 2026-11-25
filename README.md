@@ -1,58 +1,67 @@
+<div align="center">
+
 # ccNC Themes
 
-Themes for [**ccNC for Gen5W**](https://github.com/JacobPantuso/ccnc-gen5w), the ccNC-style interface for
-Hyundai and Kia Gen5W head units. A theme restyles every ccNC app at once: wallpaper, colours, icons, and
-optionally the startup and shutdown videos.
+**Themes for [ccNC for Gen5W](https://github.com/JacobPantuso/ccnc-gen5w): wallpapers, colours, icons and startup videos for Hyundai and Kia Gen5W head units.**
+
+![Themes](https://img.shields.io/badge/themes-13-1f6feb)
+![Install](https://img.shields.io/badge/install-over%20Wi--Fi-3ddc84)
+![Contributions](https://img.shields.io/badge/contributions-welcome-8957e5)
+![License](https://img.shields.io/badge/themes-CC%20BY%204.0-lightgrey)
 
 ![Themes on ccNC Home](docs/themes.png)
 
-## Install a theme
+[Install](docs/INSTALLING.md) · [Catalog](docs/CATALOG.md) · [Make a theme](CONTRIBUTING.md) · [Theme format](docs/THEME-FORMAT.md) · [How the store works](docs/STORE.md)
 
-- **Over Wi-Fi (easiest):** in ccNC, open **Settings > Screen Theme > Theme Store**, tap a theme and
-  **Install**. When the car joins Wi-Fi, ccNC tells you about new themes and updates. Nothing installs by itself.
-- **From a USB stick:** download the theme's `ccnc.theme.<id>-<version>-nemesis.zip` from the
-  [latest release](https://github.com/JacobPantuso/ccnc-themes/releases/latest), unzip it onto the root of a
-  stick, and install it from NEMESIS Manager.
+</div>
 
-Then choose it in **Settings > Screen Theme > ccNC Theme**.
+---
+
+## Overview
+
+A theme restyles every ccNC app at once: Home, Settings, Climate, Media, EV and the rest. Themes are installed
+from the **Theme Store** inside ccNC whenever the head unit is on Wi-Fi, or from a USB stick. Anyone can make
+one and submit it here; accepted themes appear in every car's store with the author's name.
 
 ## Catalog
 
 <!-- catalog:start -->
-13 themes.
+13 themes. Details for each: [docs/CATALOG.md](docs/CATALOG.md).
 
-| Preview | Theme |
-|---|---|
-| <a href="packs/arctic-light"><img src="packs/arctic-light/preview.png" width="420"></a> | **Arctic Light** `arctic-light`<br>Light theme: frosted ice blues with crisp dark text.<br>by ccNC<br>Light · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/aurora"><img src="packs/aurora/preview.png" width="420"></a> | **Aurora** `aurora`<br>Northern lights over a dark ridge, mint to violet.<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/candy-cane-christmas"><img src="packs/candy-cane-christmas/preview.png" width="420"></a> | **Candy Cane Christmas** `candy-cane-christmas`<br>Snowy night, twinkling tree lights and candy-cane icons. Look up!<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/carbon-orange"><img src="packs/carbon-orange/preview.png" width="420"></a> | **Carbon Orange** `carbon-orange`<br>Carbon-fibre graphite with a hot orange light trail.<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/deep-ocean"><img src="packs/deep-ocean/preview.png" width="420"></a> | **Deep Ocean** `deep-ocean`<br>Abyssal blues, drifting light rays and teal glow.<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/evergreen"><img src="packs/evergreen/preview.png" width="420"></a> | **Evergreen** `evergreen`<br>Pine-green topographic contours, calm and organic.<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/hyundai-parametric"><img src="packs/hyundai-parametric/preview.png" width="420"></a> | **Parametric Blue** `hyundai-parametric`<br>Hyundai: parametric pixel grid in deep blue and cyan.<br>by ccNC<br>Dark · Hyundai · v1.0<br>Includes: startup video, icons |
-| <a href="packs/kia-midnight"><img src="packs/kia-midnight/preview.png" width="420"></a> | **Midnight Facets** `kia-midnight`<br>Kia: sharp angular facets in black with coral light.<br>by ccNC<br>Dark · Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/neon-drive"><img src="packs/neon-drive/preview.png" width="420"></a> | **Neon Drive** `neon-drive`<br>Retro synthwave dusk: striped sun, magenta grid.<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/rose-gold"><img src="packs/rose-gold/preview.png" width="420"></a> | **Rose Gold** `rose-gold`<br>Silky rose-gold ribbons on deep plum.<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/sandstone"><img src="packs/sandstone/preview.png" width="420"></a> | **Sandstone** `sandstone`<br>Light theme: warm desert dunes, terracotta accent.<br>by ccNC<br>Light · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/swamp-master"><img src="packs/swamp-master/preview.png" width="420"></a> | **Swamp Master** `swamp-master`<br>Misty jungle swamp, ancient roots and a glowing green accent.<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
-| <a href="packs/swamp-ogre"><img src="packs/swamp-ogre/preview.png" width="420"></a> | **Swamp Ogre** `swamp-ogre`<br>Murky swamp at dusk: moss greens, mud browns, firefly glow.<br>by ccNC<br>Dark · Hyundai + Kia · v1.0<br>Includes: startup video, icons |
+<table>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#arctic-light"><img src="packs/arctic-light/preview.png"></a><br><b>Arctic Light</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#aurora"><img src="packs/aurora/preview.png"></a><br><b>Aurora</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#candy-cane-christmas"><img src="packs/candy-cane-christmas/preview.png"></a><br><b>Candy Cane Christmas</b></td></tr>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#carbon-orange"><img src="packs/carbon-orange/preview.png"></a><br><b>Carbon Orange</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#deep-ocean"><img src="packs/deep-ocean/preview.png"></a><br><b>Deep Ocean</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#evergreen"><img src="packs/evergreen/preview.png"></a><br><b>Evergreen</b></td></tr>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#hyundai-parametric"><img src="packs/hyundai-parametric/preview.png"></a><br><b>Parametric Blue</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#kia-midnight"><img src="packs/kia-midnight/preview.png"></a><br><b>Midnight Facets</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#neon-drive"><img src="packs/neon-drive/preview.png"></a><br><b>Neon Drive</b></td></tr>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#rose-gold"><img src="packs/rose-gold/preview.png"></a><br><b>Rose Gold</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#sandstone"><img src="packs/sandstone/preview.png"></a><br><b>Sandstone</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#swamp-master"><img src="packs/swamp-master/preview.png"></a><br><b>Swamp Master</b></td></tr>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#swamp-ogre"><img src="packs/swamp-ogre/preview.png"></a><br><b>Swamp Ogre</b></td></tr>
+</table>
 <!-- catalog:end -->
+
+## Install a theme
+
+1. Connect the head unit to Wi-Fi.
+2. Open **Settings > Screen Theme > Theme Store** in ccNC, choose a theme and tap **Install**.
+3. Choose it in **Settings > Screen Theme > ccNC Theme**.
+
+No Wi-Fi? Install from a USB stick instead: see **[Installing themes](docs/INSTALLING.md)**.
 
 ## Make your own
 
-Anyone can make a theme and send it in: see [CONTRIBUTING.md](CONTRIBUTING.md). Short version: copy
-`tools/template` to `packs/<your-id>/`, edit `theme.json` (put your name in `author` and your GitHub username
-in `github`, that's how you're credited in the store), add a 1920 x 720 wallpaper and any icons, check it with
-`python3 -I tools/validate.py packs/<your-id>`, and open a pull request. An automatic check validates every
-pull request.
+Copy `tools/template`, set your colours, add a 1920 x 720 wallpaper and any icons, validate, and open a pull
+request. The full walkthrough is in **[CONTRIBUTING.md](CONTRIBUTING.md)**; every field is described in
+**[Theme format](docs/THEME-FORMAT.md)**.
 
-## How the store works
+## Documentation
 
-Each release holds the theme list (`themes.json`), its signature, a preview and a zip for every theme. ccNC
-only uses a list signed with the store's key, checks every download against it, and only unpacks a theme's own
-files (theme.json, wallpaper, icons, videos), so nothing else can reach the car through a theme.
+| Guide | What's in it |
+|---|---|
+| [Installing themes](docs/INSTALLING.md) | Theme Store, USB stick, updating and removing |
+| [Catalog](docs/CATALOG.md) | Every theme with its preview and details |
+| [Contributing](CONTRIBUTING.md) | Making and submitting a theme, and the rules |
+| [Theme format](docs/THEME-FORMAT.md) | `theme.json`, wallpaper, icons and videos |
+| [How the store works](docs/STORE.md) | Signed releases, download checks, publishing |
 
-## Licence
+## License
 
-Tools: MIT ([LICENSE](LICENSE)). Themes: CC BY 4.0, credit the theme's author; see
-[packs/LICENSE.md](packs/LICENSE.md) (the starter packs' icons are recoloured ccNC artwork and not covered).
+Tools: [MIT](LICENSE). Themes: [CC BY 4.0](packs/LICENSE.md), credit the theme's author. The starter themes'
+icons are recoloured ccNC artwork and are not covered by that licence.
