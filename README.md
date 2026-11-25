@@ -25,3 +25,8 @@ theme's author in the Theme Store.
 Every release holds `themes.json` (the list of themes), its signature `themes.json.sig`, a preview and a zip per
 theme. ccNC only uses a list signed with the store key, checks every download against it, and only unpacks a
 theme's own files (theme.json, wallpaper, icons, videos).
+
+## Licence
+
+Tools: MIT ([LICENSE](LICENSE)). Themes: CC BY 4.0, credit the theme's author; see
+[packs/LICENSE.md](packs/LICENSE.md) (the starter packs' icons are recoloured ccNC artwork and not covered).
