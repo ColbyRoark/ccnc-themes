@@ -1,0 +1,31 @@
+{
+  "id": "catppuccin-mocha",
+  "name": "Catppuccin Mocha",
+  "author": "Colby Roark",
+  "github": "ColbyRoark",
+  "version": "1.0",
+  "description": "Catppuccin Mocha: pastel mauve accents on deep, cosy indigo.",
+  "brands": [
+    "hyundai",
+    "kia"
+  ],
+  "light": false,
+  "colors": {
+    "background": [
+      "#181825",
+      "#1E1E2E",
+      "#313244",
+      "#11111B"
+    ],
+    "glow1": "#4DCBA6F7",
+    "glow2": "#3C89B4FA",
+    "shade": "#8C11111B",
+    "card": "#66313244",
+    "subtext": "#A6ADC8",
+    "accent": "#CBA6F7"
+  },
+  "wallpaper": "wallpaper.jpg",
+  "icons": "icons",
+  "boot_video": null,
+  "shutdown_video": null
+}

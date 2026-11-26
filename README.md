@@ -6,7 +6,7 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/jacobpantuso)
 
-![Themes](https://img.shields.io/badge/themes-13-1f6feb)
+![Themes](https://img.shields.io/badge/themes-14-1f6feb)
 ![Install](https://img.shields.io/badge/install-over%20Wi--Fi-3ddc84)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-8957e5)
 ![License](https://img.shields.io/badge/themes-CC%20BY%204.0-lightgrey)
@@ -31,14 +31,14 @@ one and submit it here; accepted themes appear in every car's store with the aut
 ## Catalog
 
 <!-- catalog:start -->
-13 themes. Details for each: [docs/CATALOG.md](docs/CATALOG.md).
+14 themes. Details for each: [docs/CATALOG.md](docs/CATALOG.md).
 
 <table>
 <tr><td width="33%" align="center"><a href="docs/CATALOG.md#arctic-light"><img src="packs/arctic-light/preview.png"></a><br><b>Arctic Light</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#aurora"><img src="packs/aurora/preview.png"></a><br><b>Aurora</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#candy-cane-christmas"><img src="packs/candy-cane-christmas/preview.png"></a><br><b>Candy Cane Christmas</b></td></tr>
-<tr><td width="33%" align="center"><a href="docs/CATALOG.md#carbon-orange"><img src="packs/carbon-orange/preview.png"></a><br><b>Carbon Orange</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#deep-ocean"><img src="packs/deep-ocean/preview.png"></a><br><b>Deep Ocean</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#evergreen"><img src="packs/evergreen/preview.png"></a><br><b>Evergreen</b></td></tr>
-<tr><td width="33%" align="center"><a href="docs/CATALOG.md#hyundai-parametric"><img src="packs/hyundai-parametric/preview.png"></a><br><b>Parametric Blue</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#kia-midnight"><img src="packs/kia-midnight/preview.png"></a><br><b>Midnight Facets</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#neon-drive"><img src="packs/neon-drive/preview.png"></a><br><b>Neon Drive</b></td></tr>
-<tr><td width="33%" align="center"><a href="docs/CATALOG.md#rose-gold"><img src="packs/rose-gold/preview.png"></a><br><b>Rose Gold</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#sandstone"><img src="packs/sandstone/preview.png"></a><br><b>Sandstone</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#swamp-master"><img src="packs/swamp-master/preview.png"></a><br><b>Swamp Master</b></td></tr>
-<tr><td width="33%" align="center"><a href="docs/CATALOG.md#swamp-ogre"><img src="packs/swamp-ogre/preview.png"></a><br><b>Swamp Ogre</b></td></tr>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#carbon-orange"><img src="packs/carbon-orange/preview.png"></a><br><b>Carbon Orange</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#catppuccin-mocha"><img src="packs/catppuccin-mocha/preview.png"></a><br><b>Catppuccin Mocha</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#deep-ocean"><img src="packs/deep-ocean/preview.png"></a><br><b>Deep Ocean</b></td></tr>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#evergreen"><img src="packs/evergreen/preview.png"></a><br><b>Evergreen</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#hyundai-parametric"><img src="packs/hyundai-parametric/preview.png"></a><br><b>Parametric Blue</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#kia-midnight"><img src="packs/kia-midnight/preview.png"></a><br><b>Midnight Facets</b></td></tr>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#neon-drive"><img src="packs/neon-drive/preview.png"></a><br><b>Neon Drive</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#rose-gold"><img src="packs/rose-gold/preview.png"></a><br><b>Rose Gold</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#sandstone"><img src="packs/sandstone/preview.png"></a><br><b>Sandstone</b></td></tr>
+<tr><td width="33%" align="center"><a href="docs/CATALOG.md#swamp-master"><img src="packs/swamp-master/preview.png"></a><br><b>Swamp Master</b></td><td width="33%" align="center"><a href="docs/CATALOG.md#swamp-ogre"><img src="packs/swamp-ogre/preview.png"></a><br><b>Swamp Ogre</b></td></tr>
 </table>
 <!-- catalog:end -->
 

@@ -7,5 +7,8 @@ you credit the theme's author (the `author` in its theme.json) and link the lice
 
 **Starter pack:** the icons and fonts are Hyundai's proprietary artwork and fonts. All credit goes to Hyundai.
 
+**Catppuccin Mocha pack:** its app icons are adapted from [Catppuccin Icons for Zed](https://github.com/catppuccin/zed-icons),
+which is MIT licensed, © Catppuccin, and rasterised to 90 x 90 PNGs for ccNC.
+
 By submitting a theme you confirm you have the right to share it and agree to license your original work in it
 under CC BY 4.0.
